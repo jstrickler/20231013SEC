@@ -1,0 +1,12 @@
+ipython
+iPywidgets
+jupyter
+jupyterlab
+matplotlib
+numpy
+pandas
+pdfkit
+pymongo
+requests
+scipy
+seaborn
