@@ -1,5 +1,7 @@
 from dateutil.parser import parse
 
+#  http://www.github.com/jstrickler/20231013SEC
+
 fruits = ['pomegranate', 'cherry', 'apricot', 'apple',
 'lemon', 'kiwi', 'orange', 'lime', 'watermelon', 'guava',
 'papaya', 'fig', 'pear', 'banana', 'tamarind', 'persimmon',
