@@ -1,6 +1,7 @@
 
 set1 = {'red', 'blue', 'green', 'purple', 'green'}  # create literal set
-set2 = {'green', 'blue', 'yellow', 'orange'}
+colors = ['green', 'blue', 'yellow', 'orange']
+set2 = set(colors)
 
 set1.add('taupe')  # add element to set (ignored if already in set)
 
