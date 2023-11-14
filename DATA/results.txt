@@ -1,0 +1,443 @@
+city-of-chicago-salaries.csv:2164:"BIRD,  DAVID P",POLICE OFFICER,POLICE,$80724.00
+city-of-chicago-salaries.csv:2165:"BIRD,  JOSEPH J",SERGEANT,POLICE,$96648.00
+city-of-chicago-salaries.csv:2166:"BIRD,  MICHAEL R",FIRE ENGINEER-EMT,FIRE,$97836.00
+city-of-chicago-salaries.csv:2167:"BIRDOW,  VERA",MOTOR TRUCK DRIVER,AVIATION,$70408.00
+city-of-chicago-salaries.csv:2168:"BIRDSELL,  STEVEN P",ASST CHIEF OPERATING ENGINEER,WATER MGMNT,$103043.20
+city-of-chicago-salaries.csv:2169:"BIRDSONG,  MATTHEW",POLICE OFFICER,POLICE,$65016.00
+city-of-chicago-salaries.csv:2975:"BROWN,  BIRDER J",SANITATION LABORER,STREETS & SAN,$69576.00
+city-of-chicago-salaries.csv:12887:"HUBBIRD,  CATHLEEN T",CROSSING GUARD - PER AGREEMENT,POLICE,$16078.40
+city-of-chicago-salaries.csv:15719:"LAMPIGNANO,  ITALO",MOTOR TRUCK DRIVER,STREETS & SAN,$70408.00
+city-of-chicago-salaries.csv:22307:"PERPIGNAN,  REGINE",POLICE OFFICER,POLICE,$83706.00
+city-of-chicago-salaries.csv:22549:"PIGNATO,  ANTHONY",TRAFFIC CONTROL AIDE-HOURLY,OEMC,$19167.20
+city-of-chicago-salaries.csv:22550:"PIGOTT-BAILEY,  ROSEMARIE",POLICE COMMUNICATIONS OPERATOR II,OEMC,$75324.00
+city-of-chicago-salaries.csv:22551:"PIGOTT,  JOHN M",POLICE OFFICER,POLICE,$80724.00
+city-of-chicago-salaries.csv:22552:"PIGOTT,  MICHAEL K",LIEUTENANT,POLICE,$112206.00
+city-of-chicago-salaries.csv:24408:"ROCCO-PIGNATO,  LISA M",POLICE OFFICER,POLICE,$83706.00
+baby-names.csv:755:1880,"Bird",5.9e-05,"boy"
+baby-names.csv:1797:1881,"Bird",5.5e-05,"boy"
+baby-names.csv:2767:1882,"Bird",5.7e-05,"boy"
+baby-names.csv:4780:1884,"Bird",5.7e-05,"boy"
+baby-names.csv:7758:1887,"Bird",6.4e-05,"boy"
+baby-names.csv:9987:1889,"Bird",4.2e-05,"boy"
+baby-names.csv:10899:1890,"Bird",5e-05,"boy"
+baby-names.csv:129156:1880,"Birdie",0.000871,"girl"
+baby-names.csv:129551:1880,"Bird",0.000102,"girl"
+baby-names.csv:130160:1881,"Birdie",0.00085,"girl"
+baby-names.csv:130750:1881,"Bird",6.1e-05,"girl"
+baby-names.csv:131153:1882,"Birdie",0.000977,"girl"
+baby-names.csv:131600:1882,"Bird",8.6e-05,"girl"
+baby-names.csv:131927:1882,"Birdella",4.3e-05,"girl"
+baby-names.csv:132172:1883,"Birdie",0.000775,"girl"
+baby-names.csv:132833:1883,"Bird",5e-05,"girl"
+baby-names.csv:133157:1884,"Birdie",0.00093,"girl"
+baby-names.csv:134161:1885,"Birdie",0.000923,"girl"
+baby-names.csv:135184:1886,"Birdie",8e-04,"girl"
+baby-names.csv:135844:1886,"Bird",5.2e-05,"girl"
+baby-names.csv:136176:1887,"Birdie",0.000856,"girl"
+baby-names.csv:137162:1888,"Birdie",0.000955,"girl"
+baby-names.csv:137801:1888,"Bird",5.8e-05,"girl"
+baby-names.csv:138178:1889,"Birdie",0.000877,"girl"
+baby-names.csv:139180:1890,"Birdie",0.000833,"girl"
+baby-names.csv:140196:1891,"Birdie",0.000702,"girl"
+baby-names.csv:141205:1892,"Birdie",0.00068,"girl"
+baby-names.csv:142209:1893,"Birdie",0.000662,"girl"
+baby-names.csv:143205:1894,"Birdie",0.000716,"girl"
+baby-names.csv:144200:1895,"Birdie",0.000745,"girl"
+baby-names.csv:145219:1896,"Birdie",0.000643,"girl"
+baby-names.csv:146225:1897,"Birdie",0.000608,"girl"
+baby-names.csv:147217:1898,"Birdie",0.000649,"girl"
+baby-names.csv:148215:1899,"Birdie",0.000659,"girl"
+baby-names.csv:149220:1900,"Birdie",0.000642,"girl"
+baby-names.csv:150219:1901,"Birdie",0.000669,"girl"
+baby-names.csv:151230:1902,"Birdie",0.000617,"girl"
+baby-names.csv:152262:1903,"Birdie",0.000496,"girl"
+baby-names.csv:153258:1904,"Birdie",0.000516,"girl"
+baby-names.csv:154272:1905,"Birdie",0.000478,"girl"
+baby-names.csv:155274:1906,"Birdie",0.000475,"girl"
+baby-names.csv:156280:1907,"Birdie",0.000465,"girl"
+baby-names.csv:157282:1908,"Birdie",0.000437,"girl"
+baby-names.csv:158287:1909,"Birdie",0.000429,"girl"
+baby-names.csv:159284:1910,"Birdie",0.000446,"girl"
+baby-names.csv:160364:1911,"Birdie",0.000274,"girl"
+baby-names.csv:161338:1912,"Birdie",0.000316,"girl"
+baby-names.csv:162329:1913,"Birdie",0.000327,"girl"
+baby-names.csv:163364:1914,"Birdie",0.000265,"girl"
+baby-names.csv:164380:1915,"Birdie",0.00025,"girl"
+baby-names.csv:165378:1916,"Birdie",0.000253,"girl"
+baby-names.csv:166415:1917,"Birdie",0.000208,"girl"
+baby-names.csv:167405:1918,"Birdie",0.000219,"girl"
+baby-names.csv:168428:1919,"Birdie",0.000199,"girl"
+baby-names.csv:169446:1920,"Birdie",0.000185,"girl"
+baby-names.csv:170421:1921,"Birdie",0.000201,"girl"
+baby-names.csv:171408:1922,"Birdie",0.000209,"girl"
+baby-names.csv:172450:1923,"Birdie",0.000184,"girl"
+baby-names.csv:173462:1924,"Birdie",0.000175,"girl"
+baby-names.csv:174489:1925,"Birdie",0.000163,"girl"
+baby-names.csv:175484:1926,"Birdie",0.000168,"girl"
+baby-names.csv:176507:1927,"Birdie",0.000155,"girl"
+baby-names.csv:177562:1928,"Birdie",0.000131,"girl"
+baby-names.csv:178486:1929,"Birdie",0.000168,"girl"
+baby-names.csv:179508:1930,"Birdie",0.000149,"girl"
+baby-names.csv:180538:1931,"Birdie",0.000137,"girl"
+baby-names.csv:181520:1932,"Birdie",0.000144,"girl"
+baby-names.csv:182550:1933,"Birdie",0.000129,"girl"
+baby-names.csv:183552:1934,"Birdie",0.000127,"girl"
+baby-names.csv:184547:1935,"Birdie",0.000127,"girl"
+baby-names.csv:185623:1936,"Birdie",0.000104,"girl"
+baby-names.csv:186646:1937,"Birdie",0.000101,"girl"
+baby-names.csv:187637:1938,"Birdie",0.000103,"girl"
+baby-names.csv:188664:1939,"Birdie",9.3e-05,"girl"
+baby-names.csv:189653:1940,"Birdie",9.7e-05,"girl"
+baby-names.csv:190677:1941,"Birdie",8.7e-05,"girl"
+baby-names.csv:191754:1942,"Birdie",7.3e-05,"girl"
+baby-names.csv:192809:1943,"Birdie",6.3e-05,"girl"
+baby-names.csv:193780:1944,"Birdie",7e-05,"girl"
+baby-names.csv:194858:1945,"Birdie",5.7e-05,"girl"
+baby-names.csv:196990:1947,"Birdie",4.4e-05,"girl"
+baby-names.csv:197988:1948,"Birdie",4.5e-05,"girl"
+titanic3.csv:26:1,1,"Bird, Miss. Ellen",female,29,0,0,PC 17483,221.7792,C97,S,8,,
+parrot.txt:4:him is a quiet, conservative type, and this bird's foul mouth is
+parrot.txt:7:One day, it gets to be too much, so the guy grabs the bird by the
+parrot.txt:9:makes the bird mad and he swears more than ever.
+parrot.txt:11:Then the guy gets mad and says, "OK, fork you." and locks the bird
+parrot.txt:14:This really aggravates the bird and he claws and scratches,
+parrot.txt:15:and when the guy finally lets him out, the bird cuts loose with a
+parrot.txt:18:At that point, the guy is so mad that he throws the bird into the
+parrot.txt:21:For the first few seconds there is a terrible din. The bird kicks
+parrot.txt:25:bird may be hurt. After a couple of minutes of silence, he's so
+parrot.txt:28:The bird calmly climbs onto the man's out-stretched arm and says,
+alice.txt:465:with the birds and animals that had fallen into it:  there were a
+alice.txt:478:bank--the birds with draggled feathers, the animals with their
+alice.txt:544:some of the other birds tittered audibly.
+alice.txt:606:and confusion, as the large birds complained that they could not
+alice.txt:709:after the birds!  Why, she'll eat a little bird as soon as look
+alice.txt:713:Some of the birds hurried off at once:  one old Magpie began
+alice.txt:948:found quite a crowd of little animals and birds waiting outside.
+alice.txt:949:The poor little Lizard, Bill, was in the middle, being held up by
+alice.txt:950:two guinea-pigs, who were giving it something out of a bottle.
+alice.txt:1238:hurry:  a large pigeon had flown into her face, and was beating
+alice.txt:1241:  `Serpent!' screamed the Pigeon.
+alice.txt:1245:  `Serpent, I say again!' repeated the Pigeon, but in a more
+alice.txt:1253:tried hedges,' the Pigeon went on, without attending to her; `but
+alice.txt:1257:use in saying anything more till the Pigeon had finished.
+alice.txt:1260:Pigeon; `but I must be on the look-out for serpents night and
+alice.txt:1267:the Pigeon, raising its voice to a shriek, `and just as I was
+alice.txt:1274:  `Well!  WHAT are you?' said the Pigeon.  `I can see you're
+alice.txt:1280:  `A likely story indeed!' said the Pigeon in a tone of the
+alice.txt:1290:  `I don't believe it,' said the Pigeon; `but if they do, why
+alice.txt:1294:for a minute or two, which gave the Pigeon the opportunity of
+alice.txt:1303:  `Well, be off, then!' said the Pigeon in a sulky tone, as it
+alice.txt:1332:                         Pig and Pepper
+alice.txt:1433:  `It's a Cheshire cat,' said the Duchess, `and that's why.  Pig!'
+alice.txt:1544:  No, there were no tears.  `If you're going to turn into a pig,
+alice.txt:1554:neither more nor less than a pig, and she felt that it would be
+alice.txt:1560:but it makes rather a handsome pig, I think.'  And she began
+alice.txt:1562:pigs, and was just saying to herself, `if one only knew the right
+alice.txt:1633:  `It turned into a pig,' Alice quietly said, just as if it had
+alice.txt:1647:  `Did you say pig, or fig?' said the Cat.
+alice.txt:1649:  `I said pig,' replied Alice; `and I wish you wouldn't keep
+alice.txt:2422:bite.  And the moral of that is--"Birds of a feather flock
+alice.txt:2425:  `Only mustard isn't a bird,' Alice remarked.
+alice.txt:2471:  `Just about as much right,' said the Duchess, `as pigs have to fly;
+alice.txt:3030:of little birds and beasts, as well as the whole pack of cards:
+alice.txt:3053:some of them were animals, and some were birds,) `I suppose they
+alice.txt:3084:Bill, the Lizard) could not make out at all what had become of
+alice.txt:3222:  Here one of the guinea-pigs cheered, and was immediately
+alice.txt:3226:into this they slipped the guinea-pig, head first, and then sat
+alice.txt:3243:  Here the other guinea-pig cheered, and was suppressed.
+alice.txt:3245:  `Come, that finished the guinea-pigs!' thought Alice.  `Now we
+alice.txt:3327:had put the Lizard in head downwards, and the poor little thing
+alice.txt:3336:out a history of the accident, all except the Lizard, who seemed
+alice.txt:3508:Lizard as she spoke.  (The unfortunate little Bill had left off
+alice.txt:3572:guests to execution--once more the pig-baby was sneezing on the
+alice.txt:3574:more the shriek of the Gryphon, the squeaking of the Lizard's
+alice.txt:3575:slate-pencil, and the choking of the suppressed guinea-pigs,
+words.txt:13224:bellbird
+words.txt:13225:bellbirds
+words.txt:14945:bird
+words.txt:14946:birdbath
+words.txt:14947:birdbaths
+words.txt:14948:birdbrain
+words.txt:14949:birdbrained
+words.txt:14950:birdbrains
+words.txt:14951:birdcage
+words.txt:14952:birdcages
+words.txt:14953:birdcall
+words.txt:14954:birdcalls
+words.txt:14955:birded
+words.txt:14956:birder
+words.txt:14957:birders
+words.txt:14958:birdfarm
+words.txt:14959:birdfarms
+words.txt:14960:birdhouse
+words.txt:14961:birdhouses
+words.txt:14962:birdie
+words.txt:14963:birdied
+words.txt:14964:birdieing
+words.txt:14965:birdies
+words.txt:14966:birding
+words.txt:14967:birdings
+words.txt:14968:birdlike
+words.txt:14969:birdlime
+words.txt:14970:birdlimed
+words.txt:14971:birdlimes
+words.txt:14972:birdliming
+words.txt:14973:birdman
+words.txt:14974:birdmen
+words.txt:14975:birds
+words.txt:14976:birdseed
+words.txt:14977:birdseeds
+words.txt:14978:birdseye
+words.txt:14979:birdseyes
+words.txt:14980:birdshot
+words.txt:14981:birdshots
+words.txt:14982:birdsong
+words.txt:14983:birdsongs
+words.txt:14984:birdwatcher
+words.txt:14985:birdwatchers
+words.txt:15222:blackbird
+words.txt:15223:blackbirded
+words.txt:15224:blackbirder
+words.txt:15225:blackbirders
+words.txt:15226:blackbirding
+words.txt:15227:blackbirds
+words.txt:15956:bluebird
+words.txt:15957:bluebirds
+words.txt:17272:bowerbird
+words.txt:17273:bowerbirds
+words.txt:19494:bushpig
+words.txt:19495:bushpigs
+words.txt:22391:catbird
+words.txt:22392:catbirds
+words.txt:22841:cedarbird
+words.txt:22842:cedarbirds
+words.txt:23606:champignon
+words.txt:23607:champignons
+words.txt:33323:cowbird
+words.txt:33324:cowbirds
+words.txt:39260:depigmentation
+words.txt:39261:depigmentations
+words.txt:50043:epigastric
+words.txt:50044:epigeal
+words.txt:50045:epigean
+words.txt:50046:epigeic
+words.txt:50047:epigene
+words.txt:50048:epigeneses
+words.txt:50049:epigenesis
+words.txt:50050:epigenetic
+words.txt:50051:epigenetically
+words.txt:50052:epigenic
+words.txt:50053:epigeous
+words.txt:50054:epiglottal
+words.txt:50055:epiglottic
+words.txt:50056:epiglottides
+words.txt:50057:epiglottis
+words.txt:50058:epiglottises
+words.txt:50059:epigon
+words.txt:50060:epigone
+words.txt:50061:epigones
+words.txt:50062:epigoni
+words.txt:50063:epigonic
+words.txt:50064:epigonism
+words.txt:50065:epigonisms
+words.txt:50066:epigonous
+words.txt:50067:epigons
+words.txt:50068:epigonus
+words.txt:50069:epigram
+words.txt:50070:epigrammatic
+words.txt:50071:epigrammatically
+words.txt:50072:epigrammatism
+words.txt:50073:epigrammatisms
+words.txt:50074:epigrammatist
+words.txt:50075:epigrammatists
+words.txt:50076:epigrammatize
+words.txt:50077:epigrammatized
+words.txt:50078:epigrammatizer
+words.txt:50079:epigrammatizers
+words.txt:50080:epigrammatizes
+words.txt:50081:epigrammatizing
+words.txt:50082:epigrams
+words.txt:50083:epigraph
+words.txt:50084:epigrapher
+words.txt:50085:epigraphers
+words.txt:50086:epigraphic
+words.txt:50087:epigraphical
+words.txt:50088:epigraphically
+words.txt:50089:epigraphies
+words.txt:50090:epigraphist
+words.txt:50091:epigraphists
+words.txt:50092:epigraphs
+words.txt:50093:epigraphy
+words.txt:50094:epigynies
+words.txt:50095:epigynous
+words.txt:50096:epigyny
+words.txt:54184:fatbird
+words.txt:54185:fatbirds
+words.txt:55812:firebird
+words.txt:55813:firebirds
+words.txt:66564:hangbird
+words.txt:66565:hangbirds
+words.txt:67674:hedgepig
+words.txt:67675:hedgepigs
+words.txt:70861:hummingbird
+words.txt:70862:hummingbirds
+words.txt:71701:hyperpigmentation
+words.txt:71702:hyperpigmentations
+words.txt:71703:hyperpigmented
+words.txt:79248:jailbird
+words.txt:79249:jailbirds
+words.txt:79453:jaybird
+words.txt:79454:jaybirds
+words.txt:81451:kingbird
+words.txt:81452:kingbirds
+words.txt:82460:ladybird
+words.txt:82461:ladybirds
+words.txt:85687:lizard
+words.txt:85688:lizards
+words.txt:86518:lovebird
+words.txt:86519:lovebirds
+words.txt:87201:lyrebird
+words.txt:87202:lyrebirds
+words.txt:93990:mockingbird
+words.txt:93991:mockingbirds
+words.txt:102313:oilbird
+words.txt:102314:oilbirds
+words.txt:105292:ovenbird
+words.txt:105293:ovenbirds
+words.txt:112970:pig
+words.txt:112971:pigboat
+words.txt:112972:pigboats
+words.txt:112973:pigeon
+words.txt:112974:pigeonhole
+words.txt:112975:pigeonholed
+words.txt:112976:pigeonholer
+words.txt:112977:pigeonholers
+words.txt:112978:pigeonholes
+words.txt:112979:pigeonholing
+words.txt:112980:pigeonite
+words.txt:112981:pigeonites
+words.txt:112982:pigeons
+words.txt:112983:pigeonwing
+words.txt:112984:pigeonwings
+words.txt:112985:pigfish
+words.txt:112986:pigfishes
+words.txt:112987:pigged
+words.txt:112988:piggeries
+words.txt:112989:piggery
+words.txt:112990:piggie
+words.txt:112991:piggier
+words.txt:112992:piggies
+words.txt:112993:piggiest
+words.txt:112994:piggin
+words.txt:112995:pigging
+words.txt:112996:piggins
+words.txt:112997:piggish
+words.txt:112998:piggishly
+words.txt:112999:piggishness
+words.txt:113000:piggishnesses
+words.txt:113001:piggy
+words.txt:113002:piggyback
+words.txt:113003:piggybacked
+words.txt:113004:piggybacking
+words.txt:113005:piggybacks
+words.txt:113006:pigheaded
+words.txt:113007:pigheadedly
+words.txt:113008:pigheadedness
+words.txt:113009:pigheadednesses
+words.txt:113010:piglet
+words.txt:113011:piglets
+words.txt:113012:piglike
+words.txt:113013:pigment
+words.txt:113014:pigmentary
+words.txt:113015:pigmentation
+words.txt:113016:pigmentations
+words.txt:113017:pigmented
+words.txt:113018:pigmenting
+words.txt:113019:pigments
+words.txt:113020:pigmies
+words.txt:113021:pigmy
+words.txt:113022:pignoli
+words.txt:113023:pignolia
+words.txt:113024:pignolias
+words.txt:113025:pignolis
+words.txt:113026:pignora
+words.txt:113027:pignus
+words.txt:113028:pignut
+words.txt:113029:pignuts
+words.txt:113030:pigout
+words.txt:113031:pigouts
+words.txt:113032:pigpen
+words.txt:113033:pigpens
+words.txt:113034:pigs
+words.txt:113035:pigskin
+words.txt:113036:pigskins
+words.txt:113037:pigsney
+words.txt:113038:pigsneys
+words.txt:113039:pigstick
+words.txt:113040:pigsticked
+words.txt:113041:pigsticker
+words.txt:113042:pigstickers
+words.txt:113043:pigsticking
+words.txt:113044:pigsticks
+words.txt:113045:pigsties
+words.txt:113046:pigsty
+words.txt:113047:pigtail
+words.txt:113048:pigtailed
+words.txt:113049:pigtails
+words.txt:113050:pigweed
+words.txt:113051:pigweeds
+words.txt:120435:pseudepigraph
+words.txt:120436:pseudepigrapha
+words.txt:120437:pseudepigraphies
+words.txt:120438:pseudepigraphon
+words.txt:120439:pseudepigraphs
+words.txt:120440:pseudepigraphy
+words.txt:123108:railbird
+words.txt:123109:railbirds
+words.txt:123139:rainbird
+words.txt:123140:rainbirds
+words.txt:125408:redbird
+words.txt:125409:redbirds
+words.txt:125822:reedbird
+words.txt:125823:reedbirds
+words.txt:130909:ricebird
+words.txt:130910:ricebirds
+words.txt:131060:riflebird
+words.txt:131061:riflebirds
+words.txt:133420:salpiglossis
+words.txt:133421:salpiglossises
+words.txt:135866:seabird
+words.txt:135867:seabirds
+words.txt:137437:serpigines
+words.txt:137438:serpiginous
+words.txt:137439:serpiginously
+words.txt:137440:serpigo
+words.txt:137441:serpigoes
+words.txt:138793:shorebird
+words.txt:138794:shorebirds
+words.txt:141595:snakebird
+words.txt:141596:snakebirds
+words.txt:141953:snowbird
+words.txt:141954:snowbirds
+words.txt:142784:songbird
+words.txt:142785:songbirds
+words.txt:144107:spigot
+words.txt:144108:spigots
+words.txt:149496:sunbird
+words.txt:149497:sunbirds
+words.txt:150504:surfbird
+words.txt:150505:surfbirds
+words.txt:152192:tailorbird
+words.txt:152193:tailorbirds
+words.txt:155480:thunderbird
+words.txt:155481:thunderbirds
+words.txt:169278:waterbird
+words.txt:169279:waterbirds
+words.txt:169396:wattlebird
+words.txt:169397:wattlebirds
+words.txt:169656:weaverbird
+words.txt:169657:weaverbirds
+words.txt:170380:whirlybird
+words.txt:170381:whirlybirds
+words.txt:172461:yardbird
+words.txt:172462:yardbirds

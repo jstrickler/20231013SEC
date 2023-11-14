@@ -10,8 +10,13 @@ if len(sys.argv) < 2: # make sure there is at least one command line argument
     print('Syntax: walk2.py START-DIR')
     sys.exit(1)
 
+SKIP = '.git'
 for currdir, subdirs, files in os.walk(sys.argv[1]):
+    if SKIP in subdirs:
+        subdirs.remove(SKIP)
     for file in files: # in each folder, iterate over files
+        if file.startswith('.'):
+            continue
         fullpath = os.path.join(currdir, file) # get full path to file
         if os.path.isfile(fullpath): # make sure it's a file (not a link or device, etc.)
             fsize = os.path.getsize(fullpath) # get file size

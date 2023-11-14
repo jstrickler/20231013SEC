@@ -1,0 +1,5 @@
+pomegranate:11
+papaya:6
+pear:4
+persimmon:9
+peach:5
