@@ -4,4 +4,4 @@ fruits = [
     '    MANGO', 'Apple', '   peach   ', 'PLUM   ', '  Apricot',
     'BaNaNa', 'Persimmon   '
 ]
-
+ 

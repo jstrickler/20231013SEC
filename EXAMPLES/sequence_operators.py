@@ -26,3 +26,7 @@ print("sum of lists:", sum_of_lists)
 product = [True] * 5  # Multiply a list; replicates elements
 
 print("product of lists:", product)
+
+print('-' * 60)
+
+print("Bob " * 20)
