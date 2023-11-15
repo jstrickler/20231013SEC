@@ -7,4 +7,5 @@ try:
     print("Bottom of try")
 
 except Exception as err: # Will catch _any_ exception
-    print("Naughty programmer! ", err)
+    pass
+#    print("Naughty programmer! ", err)
