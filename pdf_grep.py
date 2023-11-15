@@ -5,7 +5,7 @@ import os
 parser = ArgumentParser(description="PDF Grep")
 
 parser.add_argument("search_term", help="search term")
-parser.add_argument("files", help="files to search",
+parser.add_argument("files", help="files to search", metavar="file",
                     nargs="+")
 
 args = parser.parse_args()

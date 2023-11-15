@@ -26,3 +26,17 @@ m = sqrt(1234)  # Call function with one argument
 n = sqrt(2)
 
 print(f"m is {m:.3f} n is {n:.3f}")
+
+def hello(whom="world"):
+    print(f"Hello, {whom}")
+
+hello("Mom")
+hello("New York")
+hello()
+
+
+
+def search_files(*file_names):
+    for file_name in file_names:
+        print(f"Searching {file_name}")
+
