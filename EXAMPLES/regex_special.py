@@ -13,3 +13,5 @@ pattern = r'(?P<letter>[A-Z])-(?P<number>\d{2,3})'  # Use (?P<NAME>...) to name 
 
 for m in re.finditer(pattern, s):
     print(m.group('letter'), m.group('number'))  # Use m.group(NAME) to retrieve text
+#print()
+#print(dir(m))

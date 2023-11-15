@@ -11,6 +11,16 @@ import math   # load math.py
 
 PI = math.pi
 
+def main():
+    area1 = square_area(15)
+    print(f"area1: {area1}")
+    
+    area2 = circle_area(22)
+    print(f"area2: {area2}")
+    
+    area3 = rectangle_area(9, 13)
+    print(f"area3: {area3}")
+
 def circle_area(diameter):
     """
     Compute the area of a circle from a given diameter
@@ -40,12 +50,6 @@ def square_area(side):
     """
     return side ** 2
 
-if __name__ == "__main__":
-    area1 = square_area(15)
-    print(f"area1: {area1}")
-    
-    area2 = circle_area(22)
-    print(f"area2: {area2}")
-    
-    area3 = rectangle_area(9, 13)
-    print(f"area3: {area3}")
+if __name__ == "__main__":   #  dunder-name, dunder main    
+    main()
+
