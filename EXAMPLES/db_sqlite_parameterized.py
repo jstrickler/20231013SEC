@@ -12,6 +12,6 @@ with sqlite3.connect("../DATA/presidents.db") as s3conn:
 
     for party in 'Federalist', 'Whig':
         print(party)
-        s3cursor.execute(party_query, (party,))  # second argument to execute() is iterable of values to fill in placeholders from left to right
+        s3cursor.execute(party_query, [party])  # second argument to execute() is iterable of values to fill in placeholders from left to right
         print(s3cursor.fetchall())
         print()

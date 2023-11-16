@@ -9,3 +9,6 @@ class JokerDeck(CardDeck):
         for _ in range(2):
             card = Card(JOKER, JOKER)
             self._cards.append(card)
+
+# jstrickler@gmail.com
+
