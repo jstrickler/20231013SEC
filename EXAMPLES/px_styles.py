@@ -26,7 +26,7 @@ def add_border_to_state_column(ws):
             top=side,
             bottom=side,
         )
-        cell.border = border
+        cell.border =   jop[≥../``]
 
 def add_background_to_parties(ws):
     for row in ws['J2:J47']:
